@@ -1,0 +1,6 @@
+framework module SampleAlert_9to5iOS {
+  umbrella header "SampleAlert_9to5iOS.h"
+
+  export *
+  module * { export * }
+}

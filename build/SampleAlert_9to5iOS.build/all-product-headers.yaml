@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Documents/9to5iOS/SampleAlert_9to5iOS/build/Release-iphonesimulator/SampleAlert_9to5iOS.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlertViewController.h",
+          'external-contents': "/Users/admin/Documents/9to5iOS/SampleAlert_9to5iOS/SampleAlert_9to5iOS/AlertViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "SampleAlert_9to5iOS-Swift.h",
+          'external-contents': "/Users/admin/Documents/9to5iOS/SampleAlert_9to5iOS/build/Release-iphonesimulator/SampleAlert_9to5iOS.framework/Headers/SampleAlert_9to5iOS-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SampleAlert_9to5iOS.h",
+          'external-contents': "/Users/admin/Documents/9to5iOS/SampleAlert_9to5iOS/SampleAlert_9to5iOS/SampleAlert_9to5iOS.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/admin/Documents/9to5iOS/SampleAlert_9to5iOS/build/Release-iphonesimulator/SampleAlert_9to5iOS.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/admin/Documents/9to5iOS/SampleAlert_9to5iOS/build/SampleAlert_9to5iOS.build/Release-iphonesimulator/SampleAlert_9to5iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
